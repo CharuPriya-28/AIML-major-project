@@ -1,4 +1,4 @@
-
+ 
 # AIML Major Project: Adult Income Prediction
 
 This project uses the UCI Adult Income dataset (`adult.csv`) for data cleaning, EDA, model building, and visualization.
